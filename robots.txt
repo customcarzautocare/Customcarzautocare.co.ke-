@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://customcarzautocare.co.ke/sitemap.xml
+
+# Block admin params
+Disallow: /*?*pin=
+Disallow: /*#owner
