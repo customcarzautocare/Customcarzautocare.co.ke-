@@ -32,7 +32,7 @@
     "id": 3,
     "name": "Ambient Interior Lights RGB 64 Colors",
     "price": 12500,
-    "image": "assets/products/seed-3.jpg",
+    "image": "assets/products/1001211657-1787848211963.jpg",
     "category": "Interior Accessories",
     "subcat": "Ambient Lighting",
     "make": "Universal",
@@ -40,7 +40,8 @@
     "year": "All",
     "stock": 8,
     "best": true,
-    "must": true
+    "must": true,
+    "oldPrice": 15000
   },
   {
     "id": 4,
