@@ -195,16 +195,17 @@
   {
     "id": 14,
     "name": "Headlight Restoration + PPF",
-    "price": 7500,
-    "image": "assets/products/seed-1.jpg",
-    "category": "Spares",
+    "price": 1500,
+    "image": "assets/products/1001214768-1787859651377.jpg",
+    "category": "Wraps",
     "subcat": "Headlights",
     "make": "Universal",
     "model": "All",
     "year": "All",
     "stock": 99,
     "best": true,
-    "must": true
+    "must": true,
+    "oldPrice": 2000
   },
   {
     "id": 15,
