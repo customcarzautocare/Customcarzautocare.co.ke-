@@ -76,17 +76,18 @@
   },
   {
     "id": 5,
-    "name": "Audi VW LED Logo Projector Door Light",
-    "price": 3800,
-    "image": "assets/products/seed-5.jpg",
+    "name": "Car doors welcome light Audi VW LED Logo Projector Door Light",
+    "price": 2500,
+    "image": "assets/products/1001214712-1787858495024.jpg",
     "category": "Exterior Accessories",
-    "subcat": "Reflectors",
+    "subcat": "Ambient",
     "make": "Audi",
-    "model": "A4",
-    "year": "2012-2024",
+    "model": "All",
+    "year": "2000-2024",
     "stock": 18,
     "best": true,
-    "must": false
+    "must": true,
+    "oldPrice": 2800
   },
   {
     "id": 6,
