@@ -1,5 +1,20 @@
 [
   {
+    "id": 1787859879217,
+    "name": "Chameleon tint",
+    "price": 15000,
+    "image": "assets/products/1001214799-1787859879253.jpg",
+    "category": "Tints",
+    "subcat": "Tint",
+    "make": "All",
+    "model": "All",
+    "year": "All",
+    "stock": 20,
+    "best": true,
+    "must": true,
+    "oldPrice": 17000
+  },
+  {
     "id": 1787858149387,
     "name": "Toyota car mats",
     "price": 2700,
