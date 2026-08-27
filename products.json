@@ -152,7 +152,7 @@
     "id": 11,
     "name": "Wind Deflectors Chrome Trim Set",
     "price": 4800,
-    "image": "assets/products/seed-7.jpg",
+    "image": "assets/products/1001214800-1787859533194.jpg",
     "category": "Exterior Accessories",
     "subcat": "Wind Deflectors",
     "make": "Toyota",
@@ -160,7 +160,8 @@
     "year": "All",
     "stock": 22,
     "best": false,
-    "must": false
+    "must": false,
+    "oldPrice": 5000
   },
   {
     "id": 12,
