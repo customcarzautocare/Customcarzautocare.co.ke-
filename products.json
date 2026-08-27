@@ -211,7 +211,7 @@
     "id": 16,
     "name": "Seat Covers Leather Premium Beige",
     "price": 18500,
-    "image": "assets/products/seed-3.jpg",
+    "image": "assets/products/1000747347-1787859734366.jpg",
     "category": "Interior Accessories",
     "subcat": "Seat Covers",
     "make": "Universal",
@@ -219,7 +219,8 @@
     "year": "All",
     "stock": 9,
     "best": true,
-    "must": false
+    "must": false,
+    "oldPrice": 20000
   },
   {
     "id": 17,
