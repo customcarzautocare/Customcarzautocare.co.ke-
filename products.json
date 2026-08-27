@@ -1,5 +1,20 @@
 [
   {
+    "id": 1787848348933,
+    "name": "Leather seat covers",
+    "price": 18000,
+    "image": "assets/products/1001182605-1787848348964.jpg",
+    "category": "Interior accessories",
+    "subcat": "Seat cover",
+    "make": "Universal",
+    "model": "Universal",
+    "year": "All",
+    "stock": 11,
+    "best": true,
+    "must": true,
+    "oldPrice": 20000
+  },
+  {
     "id": 1,
     "name": "Toyota Premio Headlight Lens Pair Clear",
     "price": 8500,
