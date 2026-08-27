@@ -106,9 +106,9 @@
   },
   {
     "id": 7,
-    "name": "Toyota Fielder 2015 Front Bumper",
-    "price": 18500,
-    "image": "assets/products/seed-6.jpg",
+    "name": "Ex Japan Toyota Fielder axio 2015 Front Bumper",
+    "price": 68000,
+    "image": "assets/products/1001214765-1787858924316.jpg",
     "category": "Spares",
     "subcat": "Bumpers",
     "make": "Toyota",
@@ -116,7 +116,8 @@
     "year": "2015",
     "stock": 6,
     "best": false,
-    "must": true
+    "must": false,
+    "oldPrice": 70000
   },
   {
     "id": 8,
