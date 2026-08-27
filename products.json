@@ -1,5 +1,20 @@
 [
   {
+    "id": 1787859944466,
+    "name": "Car logo emblem",
+    "price": 2000,
+    "image": "assets/products/1001214099-1787859944501.jpg",
+    "category": "Spares",
+    "subcat": "Logos",
+    "make": "All",
+    "model": "All",
+    "year": "All",
+    "stock": 20,
+    "best": true,
+    "must": false,
+    "oldPrice": 2500
+  },
+  {
     "id": 1787859879217,
     "name": "Chameleon tint",
     "price": 15000,
