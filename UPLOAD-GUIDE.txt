@@ -1,0 +1,13 @@
+CUSTOMCARZ UPDATE
+
+Replace/add these files in the repository root:
+- index.html (replace existing)
+- admin.html (replace existing)
+- site.json (add)
+
+Keep assets/ and products.json.
+
+The public site now reads products.json on every load and applies site.json settings. Admin can edit products, categories, subcategories, makes, all extracted visible text, business details, links, and site image slots. It also removes the OWNER ADMIN control from customers.
+
+Admin: /admin.html
+Website: /
