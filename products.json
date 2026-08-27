@@ -208,20 +208,6 @@
     "oldPrice": 2000
   },
   {
-    "id": 15,
-    "name": "Toyota Harrier Tail Light Lens",
-    "price": 9800,
-    "image": "assets/products/seed-5.jpg",
-    "category": "Spares",
-    "subcat": "Tail light lenses",
-    "make": "Toyota",
-    "model": "Harrier",
-    "year": "2014-2020",
-    "stock": 7,
-    "best": false,
-    "must": false
-  },
-  {
     "id": 16,
     "name": "Seat Covers Leather Premium Beige",
     "price": 18500,
