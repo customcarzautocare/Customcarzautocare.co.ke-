@@ -255,16 +255,16 @@
   {
     "id": 19,
     "name": "Mazda CX-5 Grille Sport Black",
-    "price": 12500,
-    "image": "assets/products/seed-2.jpg",
+    "price": 28500,
+    "image": "assets/products/1001214805-1787859821419.jpg",
     "category": "Spares",
     "subcat": "Grilles",
     "make": "Mazda",
     "model": "CX-5",
     "year": "2017-2023",
     "stock": 4,
-    "best": false,
-    "must": false
+    "best": true,
+    "must": true
   },
   {
     "id": 20,
