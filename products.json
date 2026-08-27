@@ -224,8 +224,8 @@
   {
     "id": 17,
     "name": "Dashcam Front+Rear 4K WiFi",
-    "price": 8900,
-    "image": "assets/products/seed-9.jpg",
+    "price": 6900,
+    "image": "assets/products/1001214802-1787859693980.jpg",
     "category": "Security",
     "subcat": "Spare Parts",
     "make": "Universal",
@@ -233,7 +233,8 @@
     "year": "All",
     "stock": 14,
     "best": true,
-    "must": true
+    "must": true,
+    "oldPrice": 7500
   },
   {
     "id": 18,
