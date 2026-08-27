@@ -135,9 +135,9 @@
   },
   {
     "id": 10,
-    "name": "Android Radio 9H 2/32GB + Frame",
-    "price": 15500,
-    "image": "assets/products/seed-3.jpg",
+    "name": "Android Radio 9H 2/32GB + Frame all inch",
+    "price": 11500,
+    "image": "assets/products/1001214766-1787859504096.jpg",
     "category": "Interior Accessories",
     "subcat": "Android Radios",
     "make": "Universal",
@@ -145,7 +145,8 @@
     "year": "All",
     "stock": 15,
     "best": true,
-    "must": true
+    "must": true,
+    "oldPrice": 15000
   },
   {
     "id": 11,
