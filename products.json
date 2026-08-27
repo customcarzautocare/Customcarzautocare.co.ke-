@@ -180,16 +180,17 @@
   {
     "id": 13,
     "name": "Full Body Wrap Matt Black 3M",
-    "price": 65000,
-    "image": "assets/products/seed-8.jpg",
+    "price": 165000,
+    "image": "assets/products/1001214798-1787859595291.jpg",
     "category": "Car Stickers / Wraps",
     "subcat": "Car wraps",
     "make": "Universal",
     "model": "All",
     "year": "All",
     "stock": 3,
-    "best": false,
-    "must": false
+    "best": true,
+    "must": true,
+    "oldPrice": 200000
   },
   {
     "id": 14,
