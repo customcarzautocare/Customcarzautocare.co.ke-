@@ -3,8 +3,7 @@
     "id": 1,
     "name": "Toyota Premio Headlight Lens Pair Clear",
     "price": 8500,
-    "oldPrice": 12000,
-    "image": "assets/products/seed-1.jpg",
+    "image": "assets/products/1001213456-1787848149578.jpg",
     "category": "Spares",
     "subcat": "Headlight lenses",
     "make": "Toyota",
@@ -12,7 +11,8 @@
     "year": "2007-2021",
     "stock": 12,
     "best": true,
-    "must": true
+    "must": true,
+    "oldPrice": 12000
   },
   {
     "id": 2,
