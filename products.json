@@ -240,16 +240,17 @@
   {
     "id": 18,
     "name": "PPF Paint Protection Film 1.52x15m",
-    "price": 28000,
-    "image": "assets/products/seed-10.jpg",
+    "price": 100000,
+    "image": "assets/products/1001214769-1787859779790.jpg",
     "category": "Car Stickers / Wraps",
     "subcat": "PPF",
     "make": "Universal",
     "model": "All",
     "year": "All",
     "stock": 5,
-    "best": false,
-    "must": false
+    "best": true,
+    "must": true,
+    "oldPrice": 120000
   },
   {
     "id": 19,
