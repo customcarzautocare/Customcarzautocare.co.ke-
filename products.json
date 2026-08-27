@@ -91,18 +91,18 @@
   },
   {
     "id": 6,
-    "name": "Custom Projector Headlights Toyota Mark X",
+    "name": "Custom Projector LED Headlights Toyota Mark X",
     "price": 45000,
-    "oldPrice": 52000,
-    "image": "assets/products/seed-1.jpg",
+    "image": "assets/products/1001214713-1787858638526.jpg",
     "category": "Spares",
-    "subcat": "Projector headlights",
+    "subcat": "headlights",
     "make": "Toyota",
     "model": "Mark X",
     "year": "2010-2019",
     "stock": 4,
     "best": true,
-    "must": false
+    "must": false,
+    "oldPrice": 52000
   },
   {
     "id": 7,
