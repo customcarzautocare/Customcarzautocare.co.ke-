@@ -75,20 +75,6 @@
     "oldPrice": 15000
   },
   {
-    "id": 4,
-    "name": "BMW Furry Logo Cover Premium",
-    "price": 3500,
-    "image": "assets/products/seed-4.jpg",
-    "category": "Interior Accessories",
-    "subcat": "Air Fresheners",
-    "make": "BMW",
-    "model": "All",
-    "year": "All",
-    "stock": 25,
-    "best": false,
-    "must": true
-  },
-  {
     "id": 5,
     "name": "Audi VW LED Logo Projector Door Light",
     "price": 3800,
