@@ -277,7 +277,7 @@
     "id": 20,
     "name": "Lexus RX Side Mirror with Indicator",
     "price": 14500,
-    "image": "assets/products/seed-2.jpg",
+    "image": "assets/products/1001214801-1787859457693.jpg",
     "category": "Spares",
     "subcat": "Mirrors",
     "make": "Lexus",
@@ -285,6 +285,7 @@
     "year": "2016-2022",
     "stock": 6,
     "best": true,
-    "must": false
+    "must": false,
+    "oldPrice": 20000
   }
 ]
