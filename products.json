@@ -46,17 +46,18 @@
   },
   {
     "id": 2,
-    "name": "Subaru LED Badge Light White",
+    "name": "Subaru LED Badge Light red blue",
     "price": 4500,
-    "image": "assets/products/1001211678-1787850877673.jpg",
+    "image": "assets/products/1001214711-1787858318530.jpg",
     "category": "Exterior Accessories",
-    "subcat": "Chrome",
+    "subcat": "Ambient upgrade",
     "make": "Subaru",
-    "model": "Forester",
-    "year": "2015-2024",
+    "model": "All",
+    "year": "2000-2024",
     "stock": 30,
     "best": true,
-    "must": false
+    "must": true,
+    "oldPrice": 5000
   },
   {
     "id": 3,
