@@ -1,28 +1,41 @@
-CUSTOMCARZ FINAL UPLOAD GUIDE
+CUSTOMCARZ AUTO CARE — FINAL GITHUB UPLOAD
 
-1. Extract this ZIP.
-2. Upload the CONTENTS of this folder to the ROOT of the GitHub repository:
-   customcarzautocare / Customcarzautocare.co.ke-
-3. Keep the existing repository CNAME and replace the updated files when GitHub asks.
-4. The repository root should contain:
-   index.html
-   admin.html
-   products.json
-   site.json
-   CNAME
-   .nojekyll
-   assets/
-   *.jpg site images
-5. Do NOT upload the ZIP as a single file.
-6. After GitHub Pages deploys, open the customer website and test:
-   - category buttons
-   - product DETAILS modal
-   - WhatsApp and Call
-   - floating navigation
-   - floating social/map buttons
-   - product search and filters
-   - gallery
-7. Admin is at /admin.html. It can edit products, descriptions, categories, text overrides, gallery/site photos, business settings, links and review cards.
+Upload the contents of this repository to the ROOT of the GitHub Pages repository.
+Keep the folder structure, especially:
+- index.html
+- admin.html
+- site.json
+- products.json
+- assets/backgrounds/
+- assets/products/
 
-SOCIAL LINKS NOTE:
-Instagram is set to the known Customcarz account. Public web search did not reliably verify Facebook, X/Twitter or TikTok accounts for this business, so those fields remain editable in Admin rather than inventing an account URL.
+Customer site:
+https://customcarzautocare.co.ke/
+
+Admin:
+https://customcarzautocare.co.ke/admin.html
+
+ADMIN FEATURES
+- GitHub connection (owner / repository / branch / fine-grained token)
+- Add, edit and delete products
+- Product price, old price, stock, category, subcategory, make, model, year and description
+- Upload product photos directly to GitHub
+- Edit categories, subcategories and car makes
+- Edit business information and all social links
+- Edit customer-facing text
+- Save site.json and products.json directly to GitHub
+
+SOCIAL LINKS INCLUDED
+- Phone
+- WhatsApp
+- Jiji
+- Google Maps
+- Instagram
+- Facebook
+- TikTok
+- YouTube
+- X
+
+IMPORTANT
+The existing blended/background image assets are preserved in assets/backgrounds/ and are intentionally locked from the admin background editor.
+After GitHub Pages deploys, hard-refresh the site or open a private/incognito tab so the latest JSON is loaded.
