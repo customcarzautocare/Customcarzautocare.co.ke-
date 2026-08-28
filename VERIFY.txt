@@ -1,0 +1,9 @@
+{
+  "index.html": true,
+  "admin.html": true,
+  "site.json": true,
+  "products.json": true,
+  "background": true,
+  "products_count": 20,
+  "social_count": 10
+}
