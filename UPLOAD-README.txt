@@ -1,14 +1,32 @@
-CUSTOMCARZ AUTO CARE — UPDATED PACKAGE
+CUSTOMCARZ AUTO CARE — FINAL WEBSITE PACKAGE
 
-Upload the contents of this ZIP to the root of the GitHub Pages repository.
+Files included:
+- index.html — customer website
+- admin.html — GitHub-backed admin editor
+- products.json — product catalogue
+- site.json — business settings, social links and background settings
+- assets/backgrounds/* — supplied catalogue/background photos
 
-Includes:
-- index.html — customer website with blended persistent background, floating tabs, compact product grids, category photo cards, working detail modal and contact rail.
-- admin.html — admin editor.
-- site.json — business details, direct known links and editable image slots.
-- products.json — 20 starter products with descriptions.
-- assets/backgrounds/ — extracted website images used by the blended background and category cards.
+CUSTOMER SITE
+Open index.html after uploading the whole folder to your hosting/GitHub Pages root.
 
-Known business details used: Shell along Kirinyaga Rd, Nairobi; 0757555691; customcarzautocare@gmail.com; M-Pesa Till 3111732.
+ADMIN
+Open /admin.html on the deployed domain. Enter:
+1. GitHub owner
+2. Repository
+3. Branch (normally main)
+4. A fine-grained GitHub token with Contents: Read and write
 
-For Facebook/X/TikTok, no direct profile URL was verifiably available, so those buttons are intentionally omitted until their profile URLs are entered in Admin > Site Settings. Instagram and Jiji are configured.
+The admin can edit products, prices, stock, descriptions, categories, subcategories, makes,
+business details, direct social/store links, visible text and blended background image paths.
+Changes are committed to products.json and site.json.
+
+SOCIAL LINKS
+The package only uses direct URLs saved in site.json. WhatsApp, Jiji, Maps and Instagram are
+already configured from the supplied information. Facebook, X/Twitter and TikTok are left blank
+until the exact business profile URLs are entered in Admin; the site will hide blank icons rather
+than sending customers to a generic platform homepage.
+
+IMPORTANT
+Upload the entire package, including the assets folder. Do not upload only index.html.
+GitHub Pages deployment/cache may take a short time after saving.
