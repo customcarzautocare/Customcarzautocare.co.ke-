@@ -123,7 +123,7 @@
     "div#root > div:nth-of-type(1) > section#home > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(3)": "Call Now",
     "div#root > div:nth-of-type(1) > section#home > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1)": "💰 TILL",
     "div#root > div:nth-of-type(1) > section#home > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3)": "M-Pesa",
-    "div#root > div:nth-of-type(1) > section#home > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > div:nth-of-type(1)": "📍 LOC",
+    "div#root > div:nth-of-type(1) > section#home > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > div:nth-of-type(1)": "📍 LOCATION ",
     "div#root > div:nth-of-type(1) > section#home > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > div:nth-of-type(2)": "Shell kirinyaga rd ",
     "div#root > div:nth-of-type(1) > section#home > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > div:nth-of-type(3)": "Nairobi KE",
     "div#root > div:nth-of-type(1) > section#home > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)": "🔍 FIND YOUR PART — MAKE → MODEL → YEAR → PART",
