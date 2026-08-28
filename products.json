@@ -1,5 +1,20 @@
 [
   {
+    "id": 1787908567430,
+    "name": "Headlight lens Daihatsu mira 2012 2016 ",
+    "price": 4000,
+    "oldPrice": 4500,
+    "image": "assets/products/1787908586756-1001174925.jpg",
+    "category": "Lenses ",
+    "subcat": "Headlight lens ",
+    "make": "Daihatsu mira ",
+    "model": "Mira ",
+    "year": "2012 2016 ",
+    "stock": 10,
+    "best": true,
+    "must": false
+  },
+  {
     "id": 1787860121520,
     "name": "Universal wheel caps cover",
     "price": 6000,
