@@ -1,32 +1,44 @@
-CUSTOMCARZ AUTO CARE — FINAL STATIC WEBSITE PACKAGE
+CUSTOMCARZ AUTO CARE — CORRECTED GITHUB PAGES PACKAGE
 
-Upload/replace ALL items from this package in the ROOT of the GitHub Pages repository:
-- index.html
-- admin.html
-- site.json
-- products.json
-- CNAME
-- .nojekyll
-- assets/ (including assets/products and assets/site)
-
-Do not upload the ZIP itself as the website files. Open/extract the ZIP first and upload its contents.
-
-CUSTOMER SITE:
-https://customcarzautocare.co.ke/
-ADMIN:
-https://customcarzautocare.co.ke/admin.html
-
-ADMIN FEATURES:
-- Products: add/edit/delete name, price, old price, stock, category, subcategory, make, model, year, best/must and product photo.
-- Categories: edit categories, subcategories and car makes.
-- Every Text: scan the customer site and edit visible text without changing the design.
-- Gallery / Photos: upload and assign site images.
-- Site Settings: business details and social/contact links.
-- Save Everything writes site.json and products.json to GitHub.
+Use this package to replace the files in the ROOT of the GitHub Pages repository.
+Keep the repository branch on: main
 
 IMPORTANT:
-1. Keep your GitHub Pages source on the main branch.
-2. Use a fine-grained GitHub token with Contents: Read and write.
-3. After saving in Admin, wait for the green GitHub Pages deployment.
-4. Open the customer site in a private/incognito tab or hard-refresh.
-5. The customer site has NO Admin link/tab for clients.
+- Extract the ZIP before uploading.
+- Upload/replace the CONTENTS of the extracted folder, not the ZIP itself.
+- Keep the existing assets/ and assets/products/ files.
+- index.html is the customer website.
+- admin.html is the owner admin.
+
+CUSTOMER WEBSITE FIXES:
+- Removed the client-facing Admin tab/link.
+- Fixed the JavaScript mutation loop that could leave the customer site white/frozen.
+- Shop by Categories remains customer-facing and scrolls to the shop section.
+- products.json and site.json are loaded from the same GitHub Pages root.
+- Added .nojekyll for a predictable static deployment.
+
+ADMIN:
+Open:
+https://customcarzautocare.co.ke/admin.html
+
+The admin can manage:
+- Products: add/edit/delete, prices, stock, categories, subcategories, make/model/year, Best/Must, product photos.
+- Categories and subcategories.
+- Car makes.
+- Visible site text through text overrides.
+- Site/gallery image slots.
+- Business details and links.
+
+GITHUB TOKEN:
+Use a fine-grained GitHub Personal Access Token that has access to this repository with:
+Contents: Read and write
+
+If Connect & Load reports an error, read the exact red error message; it will now show the GitHub response instead of appearing to do nothing.
+
+AFTER UPLOADING:
+1. Wait for GitHub Pages deployment to finish.
+2. Open the customer website in a private/incognito tab or hard-refresh.
+3. Open /admin.html separately for owner editing.
+
+SECURITY NOTE:
+Do not put the GitHub token into any repository file. The admin only uses the token from the browser input/session.
