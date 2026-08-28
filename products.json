@@ -1,5 +1,21 @@
 [
   {
+    "id": 1787931948920,
+    "name": "Rea",
+    "price": 0,
+    "oldPrice": 0,
+    "image": "assets/products/custom-1787931970069-0.jpg",
+    "category": "Spare parts",
+    "subcat": "Spare Parts",
+    "make": "Toyota",
+    "model": "All",
+    "year": "All",
+    "stock": 0,
+    "best": false,
+    "must": false,
+    "description": "Add the full product description here."
+  },
+  {
     "id": 1787908567430,
     "name": "Headlight lens Daihatsu mira 2012 2016 ",
     "price": 4000,
@@ -28,20 +44,6 @@
     "best": true,
     "must": true,
     "oldPrice": 7000
-  },
-  {
-    "id": 1787860040586,
-    "name": "Hand sewing leather steering wheel cover",
-    "price": 0,
-    "image": "assets/products/1001213192-1787860040587.jpg",
-    "category": "Spares",
-    "subcat": "General",
-    "make": "Universal",
-    "model": "All",
-    "year": "All",
-    "stock": 1,
-    "best": false,
-    "must": false
   },
   {
     "id": 1787860037746,
@@ -114,8 +116,8 @@
     "model": "Universal",
     "year": "All",
     "stock": 11,
-    "best": true,
-    "must": true,
+    "best": false,
+    "must": false,
     "oldPrice": 20000
   },
   {
