@@ -1,19 +1,19 @@
 [
   {
     "id": 1787931948920,
-    "name": "Rea",
-    "price": 0,
-    "oldPrice": 0,
+    "name": "Rear spoiler ",
+    "price": 6000,
+    "oldPrice": 7000,
     "image": "assets/products/custom-1787931970069-0.jpg",
     "category": "Spare parts",
-    "subcat": "Spare Parts",
-    "make": "Toyota",
+    "subcat": "Body kits",
+    "make": "All",
     "model": "All",
     "year": "All",
-    "stock": 0,
+    "stock": 12,
     "best": false,
     "must": false,
-    "description": "Add the full product description here."
+    "description": "Universal car spoiler "
   },
   {
     "id": 1787908567430,
