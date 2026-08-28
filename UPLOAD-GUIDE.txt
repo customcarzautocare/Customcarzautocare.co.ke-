@@ -1,13 +1,32 @@
-CUSTOMCARZ UPDATE
+CUSTOMCARZ AUTO CARE — FINAL STATIC WEBSITE PACKAGE
 
-Replace/add these files in the repository root:
-- index.html (replace existing)
-- admin.html (replace existing)
-- site.json (add)
+Upload/replace ALL items from this package in the ROOT of the GitHub Pages repository:
+- index.html
+- admin.html
+- site.json
+- products.json
+- CNAME
+- .nojekyll
+- assets/ (including assets/products and assets/site)
 
-Keep assets/ and products.json.
+Do not upload the ZIP itself as the website files. Open/extract the ZIP first and upload its contents.
 
-The public site now reads products.json on every load and applies site.json settings. Admin can edit products, categories, subcategories, makes, all extracted visible text, business details, links, and site image slots. It also removes the OWNER ADMIN control from customers.
+CUSTOMER SITE:
+https://customcarzautocare.co.ke/
+ADMIN:
+https://customcarzautocare.co.ke/admin.html
 
-Admin: /admin.html
-Website: /
+ADMIN FEATURES:
+- Products: add/edit/delete name, price, old price, stock, category, subcategory, make, model, year, best/must and product photo.
+- Categories: edit categories, subcategories and car makes.
+- Every Text: scan the customer site and edit visible text without changing the design.
+- Gallery / Photos: upload and assign site images.
+- Site Settings: business details and social/contact links.
+- Save Everything writes site.json and products.json to GitHub.
+
+IMPORTANT:
+1. Keep your GitHub Pages source on the main branch.
+2. Use a fine-grained GitHub token with Contents: Read and write.
+3. After saving in Admin, wait for the green GitHub Pages deployment.
+4. Open the customer site in a private/incognito tab or hard-refresh.
+5. The customer site has NO Admin link/tab for clients.
