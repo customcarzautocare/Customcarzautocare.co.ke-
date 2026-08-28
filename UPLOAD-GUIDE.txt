@@ -1,44 +1,66 @@
-CUSTOMCARZ AUTO CARE — CORRECTED GITHUB PAGES PACKAGE
+CUSTOMCARZ AUTO CARE — UPDATED WEBSITE PACKAGE
 
-Use this package to replace the files in the ROOT of the GitHub Pages repository.
-Keep the repository branch on: main
+UPLOAD
+------
+This ZIP is ready to upload to the ROOT of the GitHub repository:
+  customcarzautocare.co.ke-
+  branch: main
 
-IMPORTANT:
-- Extract the ZIP before uploading.
-- Upload/replace the CONTENTS of the extracted folder, not the ZIP itself.
-- Keep the existing assets/ and assets/products/ files.
-- index.html is the customer website.
-- admin.html is the owner admin.
+Keep the existing repository files that are not replaced by this package.
+The package contains the updated:
+  index.html
+  admin.html
+  site.json
+  products.json
+and new site images under:
+  assets/site/
 
-CUSTOMER WEBSITE FIXES:
-- Removed the client-facing Admin tab/link.
-- Fixed the JavaScript mutation loop that could leave the customer site white/frozen.
-- Shop by Categories remains customer-facing and scrolls to the shop section.
-- products.json and site.json are loaded from the same GitHub Pages root.
-- Added .nojekyll for a predictable static deployment.
+CUSTOMER SITE
+-------------
+https://customcarzautocare.co.ke/
 
-ADMIN:
-Open:
+The customer site now includes:
+- No customer-facing Admin tab.
+- Working top navigation tabs under the intro.
+- No Shop by Car Model section.
+- Working category cards and product filtering.
+- Compact 4/3/2-column product layout depending on screen size.
+- Product descriptions on every product.
+- Featured, Offers and New Arrivals collections.
+- Search by product/category/make/model/year.
+- Premium blended photo background using the supplied images.
+- Gallery with click-to-enlarge photos.
+- Floating Call and WhatsApp buttons that remain visible.
+- Business information: Shell, Kirinyaga Rd, Nairobi; 0757 555 691; M-Pesa Till 3111732.
+- Google Business Profile rating/review-count area and Maps/profile button.
+- About, services, contact, reviews/trust and footer sections.
+- Jiji, WhatsApp, Instagram and Maps links.
+
+ADMIN SITE
+----------
 https://customcarzautocare.co.ke/admin.html
 
-The admin can manage:
-- Products: add/edit/delete, prices, stock, categories, subcategories, make/model/year, Best/Must, product photos.
-- Categories and subcategories.
-- Car makes.
-- Visible site text through text overrides.
-- Site/gallery image slots.
-- Business details and links.
+The admin can edit:
+- Every product: name, description, price, old price, stock, category, subcategory, make, model, year, featured/must-have/new/offer flags and photo.
+- Categories, subcategories and makes.
+- Every main visible text field on the customer site.
+- Advanced CSS text overrides.
+- Gallery/site photos and their image slots.
+- Customer review/trust cards.
+- Business name, phone, email, location, opening hours, M-Pesa Till, description, tagline and vision.
+- WhatsApp, Jiji, Maps, Facebook and Instagram links.
+- Google Business Profile rating, review count and Maps URL.
+- Public section visibility and SEO title/description.
 
-GITHUB TOKEN:
-Use a fine-grained GitHub Personal Access Token that has access to this repository with:
-Contents: Read and write
+GITHUB ADMIN LOGIN
+------------------
+Use a GitHub fine-grained Personal Access Token with repository Contents: Read and write access for the repository.
+The token is held only in the browser session and is never saved into the repository.
 
-If Connect & Load reports an error, read the exact red error message; it will now show the GitHub response instead of appearing to do nothing.
+AFTER SAVING
+------------
+GitHub Pages may take a short time to deploy. If the old version remains visible, hard-refresh the customer site or open it in a private/incognito tab.
 
-AFTER UPLOADING:
-1. Wait for GitHub Pages deployment to finish.
-2. Open the customer website in a private/incognito tab or hard-refresh.
-3. Open /admin.html separately for owner editing.
-
-SECURITY NOTE:
-Do not put the GitHub token into any repository file. The admin only uses the token from the browser input/session.
+IMPORTANT
+---------
+The admin writes site.json and products.json directly to GitHub. Product/site changes therefore become live after GitHub Pages finishes its deployment.
