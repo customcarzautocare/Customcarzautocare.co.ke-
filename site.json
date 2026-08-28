@@ -16,7 +16,8 @@
     "Interior Accessories",
     "Exterior Accessories",
     "Security",
-    "Car Stickers / Wraps"
+    "Car Stickers / Wraps",
+    "Lenses"
   ],
   "subcategories": [
     "Spare Parts",
@@ -68,7 +69,18 @@
     "Ford",
     "Suzuki"
   ],
-  "images": {},
+  "images": {
+    "Ue": "",
+    "oe": "",
+    "ge": "",
+    "sn": "",
+    "be": "",
+    "Le": "",
+    "Nn": "",
+    "xo": "",
+    "Jo": "",
+    "Co": ""
+  },
   "texts": {},
   "links": {
     "whatsapp": "https://wa.me/254757555691",
@@ -88,5 +100,6 @@
     "xo": "Wraps/PPF image",
     "Jo": "Security/product image",
     "Co": "Site background/pattern"
-  }
+  },
+  "textOverrides": {}
 }
