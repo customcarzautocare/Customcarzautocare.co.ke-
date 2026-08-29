@@ -1,9 +1,17 @@
-{
-  "index.html": true,
-  "admin.html": true,
-  "site.json": true,
-  "products.json": true,
-  "background": true,
-  "products_count": 20,
-  "social_count": 10
-}
+CUSTOMCARZ BUILD VERIFICATION
+
+[PASS] index.html JavaScript syntax checked
+[PASS] admin.html JavaScript syntax checked
+[PASS] site.json valid JSON
+[PASS] products.json valid JSON
+[PASS] local HTTP load: index.html
+[PASS] local HTTP load: admin.html
+[PASS] local HTTP load: site.json
+[PASS] local HTTP load: products.json
+[PASS] local HTTP load: background-blend.jpg
+[PASS] 20 supplied products retained
+[PASS] 9 customer categories configured
+[PASS] 10 social/contact links configured
+[PASS] supplied blended background preserved
+
+External social/platform navigation was kept exactly from the supplied profile/store URLs; live external clicking cannot be guaranteed from an offline build environment.
