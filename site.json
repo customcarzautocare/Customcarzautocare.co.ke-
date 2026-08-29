@@ -512,7 +512,36 @@
   "websiteSections": {},
   "services": [],
   "whyItems": [],
-  "gallery": [],
+  "gallery": [
+    {
+      "title": "1001217466.jpg",
+      "image": "assets/gallery/1787976406895-1001217466.jpg"
+    },
+    {
+      "title": "1001217027.jpg",
+      "image": "assets/gallery/1787976435231-1001217027.jpg"
+    },
+    {
+      "title": "1001217006.jpg",
+      "image": "assets/gallery/1787976459491-1001217006.jpg"
+    },
+    {
+      "title": "1001216968.jpg",
+      "image": "assets/gallery/1787976476010-1001216968.jpg"
+    },
+    {
+      "title": "1001216936.jpg",
+      "image": "assets/gallery/1787976487930-1001216936.jpg"
+    },
+    {
+      "title": "1001216917.jpg",
+      "image": "assets/gallery/1787976505984-1001216917.jpg"
+    },
+    {
+      "title": "1001216916.jpg",
+      "image": "assets/gallery/1787976535374-1001216916.jpg"
+    }
+  ],
   "reviews": [
     {
       "name": "Peter muchiri",
