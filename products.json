@@ -1,5 +1,43 @@
 [
   {
+    "id": 1787976873974,
+    "name": "Side skirts bodykits ",
+    "price": 4000,
+    "oldPrice": 5000,
+    "stock": 10,
+    "image": "assets/products/1787976894599-1001217010.jpg",
+    "category": "Exterior accessories ",
+    "subcat": "Body kits",
+    "make": "Universal ",
+    "model": "All",
+    "year": "All",
+    "description": "Universal Fit side skirts ",
+    "fitment": "Universal ",
+    "warranty": "4 years ",
+    "featured": false,
+    "bestSelling": false,
+    "mustHave": false
+  },
+  {
+    "id": 1787976753640,
+    "name": "Universal bumper lip ",
+    "price": 4000,
+    "oldPrice": 5000,
+    "stock": 12,
+    "image": "assets/products/1787976772540-1001216999.jpg",
+    "category": "Exterior accessories ",
+    "subcat": "Bodykits ",
+    "make": "All",
+    "model": "All",
+    "year": "All",
+    "description": "Universal bumper lip available ",
+    "fitment": "Universal ",
+    "warranty": "4 years ",
+    "featured": true,
+    "bestSelling": false,
+    "mustHave": false
+  },
+  {
     "id": 1787931948920,
     "name": "Rear spoiler ",
     "price": 6000,
@@ -13,7 +51,10 @@
     "stock": 12,
     "best": false,
     "must": false,
-    "description": "Universal car spoiler "
+    "description": "Universal car spoiler ",
+    "warranty": "4 years ",
+    "fitment": "Universal ",
+    "featured": true
   },
   {
     "id": 1787908567430,
@@ -58,7 +99,8 @@
     "stock": 100,
     "best": true,
     "must": true,
-    "oldPrice": 1900
+    "oldPrice": 1900,
+    "featured": true
   },
   {
     "id": 1787859944466,
@@ -73,7 +115,8 @@
     "stock": 20,
     "best": true,
     "must": false,
-    "oldPrice": 2500
+    "oldPrice": 2500,
+    "featured": true
   },
   {
     "id": 1787859879217,
