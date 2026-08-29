@@ -513,7 +513,12 @@
   "services": [],
   "whyItems": [],
   "gallery": [],
-  "reviews": [],
+  "reviews": [
+    {
+      "name": "Peter muchiri",
+      "text": "I got quality seat covers and Car floor mats "
+    }
+  ],
   "appearance": {
     "background": "assets/background/1787975731498-1001217468.jpg",
     "backgroundPosition": "center top bottom",
