@@ -504,7 +504,8 @@
     "div#root > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(5)": "🕘 Mon-Sat 8AM-6PM",
     "div#root > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(6)": "🛍️ Jiji: jiji.co.ke/shop/customcarz",
     "div#root > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(7)": "📸 IG: @customcarz_auto_care",
-    "  features ": "our products "
+    "  features ": "our products ",
+    "#home h1": "Thank you for your continued support and understanding "
   },
   "websiteSections": {},
   "services": [],
@@ -516,5 +517,6 @@
     "backgroundPosition": "center top bottom",
     "backgroundSize": "cover",
     "overlayOpacity": 0.8
-  }
+  },
+  "googleBusiness": "@customcarz_auto_care "
 }
