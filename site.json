@@ -510,8 +510,18 @@
     "#home h1": "Thank you for your continued support and understanding "
   },
   "websiteSections": {},
-  "services": [],
-  "whyItems": [],
+  "services": [
+    {
+      "title": "Headlight projector upgrade ",
+      "text": " We upgrade headlight from halogen to led laser xenon projector drl"
+    }
+  ],
+  "whyItems": [
+    {
+      "title": "One stop shop ",
+      "text": " You get your all car needs"
+    }
+  ],
   "gallery": [
     {
       "title": "1001217466.jpg",
